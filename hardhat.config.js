@@ -7,7 +7,7 @@ module.exports = {
   {
     mumbai:
     {
-      url:"https://polygon-mumbai.g.alchemy.com/v2/8-UneshwPpMnoJfhWcPaT-uTM9QHlpWA",
+      url:"Api Key",
       accounts:["Private Key"],
   }
 };
